@@ -1,0 +1,92 @@
+{
+  "hotel": [
+    {
+      "nome": "copacabana palace",
+      "descricao": "O elegante hotel 5 estrelas Copacabana Palace, A Belmond Hotel, Rio de Janeiro dispõe de quartos luxuosos com banheiros revestidos com mármore e vista panorâmica do mar.",
+      "estrelas": "5",
+      "foto": "https://img.belmond.com/f_auto/t_640x640/photos/cop/cop-ext07.jpg",
+      "id": 0
+    },
+    {
+      "nome": "new york new york",
+      "descricao": "Situado na Strip entre o Monte Carlo e o Excalibur, este animado hotel com cassino com temática da Big Apple apresenta várias torres construídas para se assemelhar ao horizonte de Nova York.",
+      "estrelas": "5",
+      "foto": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8d/a1/81/new-york-new-york-hotel.jpg?w=700&h=-1&s=1",
+      "id": 1
+    },
+    {
+      "nome": "savoy hotel london",
+      "descricao": "Perto do movimentado bairro de Covent Garden, este hotel de luxo, datado da década de 1880, fica a 8 minutos a pé da Trafalgar Square e a 14 minutos a pé da London Eye.",
+      "estrelas": "5",
+      "foto": "https://dq5r178u4t83b.cloudfront.net/wp-content/uploads/sites/86/2020/09/08103037/reopening-post-min.jpg",
+      "id": 2
+    }
+  ],
+  "quarto": [
+    {
+      "id": 0,
+      "nome": "CITY VIEW ROOMS",
+      "numero":851,
+      "descricao": "Estes quartos aconchegantes oferecem conforto sem esforço com acentos botânicos calmantes.",
+      "caractericas": {
+        "camas": "2",
+        "areas": "23M²",
+        "banheiros": "2"
+      },
+      "foto": "https://www.construyehogar.com/wp-content/uploads/2020/09/Fachada-casa-moderna-madera-560x374.jpg",
+      "perco": "R$:R$2.602/diaria",
+      "holteId": 0
+    },
+    {
+      "id": 1,
+      "nome": "Stay Well Park Avenue",
+      "numero":150,
+      "descricao":  "Este quarto aconchegants oferecem conforto sem esforço com acentos botânicos calmantes.",
+      "caractericas": {
+        "camas": "1",
+        "areas": "33M²",
+        "banheiros": "2"
+      },
+      "foto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382919726.jpg?k=68073f53746dce8f77decd4ee2c4deccbeee728ceaa682883d8acc4197ff734b&o=",
+      "perco": "R$:R$1.602/diaria",
+      "holteId": 1
+    },
+    {
+      "id": 2,
+      "nome": "Quarto Luxe",
+      "numero":181,
+      "descricao": "Lado do rio",
+      "caractericas": {
+        "camas": "1",
+        "areas": "35M²",
+        "banheiros": "2"
+      },
+      "fotos": "https://all.accor.com/ssr/app/accor/rates/A597/index.pt.shtml?dateIn=2023-01-29&nights=1&compositions=2&stayplus=false&snu=false&accessibleRooms=false&gclid=CjwKCAjw5P2aBhAlEiwAAdY7dChUDjFEJali1D75CH3IjmlPNsHoy4yvSxzYkd7VfYeZFQ5LofU_uBoCGGYQAvD_BwE&utm_campaign=A597-BR-cpa-desktop-default-0--localuniversal-13871757056-0-0-1&utm_medium=partenariats&hmGUID=856eef71-2efc-45f0-876a-513c09701d49&utm_source=Google%20Hotel%20Ads",
+      "perco": "R$:7314/diaria",
+      "holteId": 2
+    }
+  ],
+  "endereco": [
+    {
+      "id": 0,
+      "pais":"Brasil",
+      "cidade": "RJ",
+      "cep": "Av. Atlântica, 1702 - Copacabana, Rio de Janeiro - RJ, 22021-001",
+      "holteId": 0
+    },
+    {
+      "id": 1,
+      "pais":"EUA",
+      "cidade": "Las Vegas",
+      "cep": "3790 Las Vegas Boulevard South, Las Vegas Stri",
+      "holteId": 1
+    },
+    {
+      "id": 2,
+      "pais":"England",
+      "cidade": "London",
+      "cep": "372 Strand, London, WC2R 0JJ",
+      "holteId": 2
+    }
+  ]
+}
