@@ -12,3 +12,7 @@ $ npm run start
 
 ## Acesse o servidor local
 $ <http://localhost:3000>
+
+### utilize o software da isonomia 
+### para fazer as requisiçoes ao servidor
+$ https://insomnia.rest/
