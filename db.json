@@ -35,7 +35,7 @@
       },
       "foto": "https://www.construyehogar.com/wp-content/uploads/2020/09/Fachada-casa-moderna-madera-560x374.jpg",
       "perco": "R$:R$2.602/diaria",
-      "holteId": 0
+      "hotelId": 0
     },
     {
       "id": 1,
@@ -49,7 +49,7 @@
       },
       "foto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382919726.jpg?k=68073f53746dce8f77decd4ee2c4deccbeee728ceaa682883d8acc4197ff734b&o=",
       "perco": "R$:R$1.602/diaria",
-      "holteId": 1
+      "hotelId": 1
     },
     {
       "id": 2,
@@ -63,7 +63,7 @@
       },
       "fotos": "https://all.accor.com/ssr/app/accor/rates/A597/index.pt.shtml?dateIn=2023-01-29&nights=1&compositions=2&stayplus=false&snu=false&accessibleRooms=false&gclid=CjwKCAjw5P2aBhAlEiwAAdY7dChUDjFEJali1D75CH3IjmlPNsHoy4yvSxzYkd7VfYeZFQ5LofU_uBoCGGYQAvD_BwE&utm_campaign=A597-BR-cpa-desktop-default-0--localuniversal-13871757056-0-0-1&utm_medium=partenariats&hmGUID=856eef71-2efc-45f0-876a-513c09701d49&utm_source=Google%20Hotel%20Ads",
       "perco": "R$:7314/diaria",
-      "holteId": 2
+      "hotelId": 2
     }
   ],
   "endereco": [
@@ -72,21 +72,21 @@
       "pais":"Brasil",
       "cidade": "RJ",
       "cep": "Av. Atlântica, 1702 - Copacabana, Rio de Janeiro - RJ, 22021-001",
-      "holteId": 0
+      "hotelId": 0
     },
     {
       "id": 1,
       "pais":"EUA",
       "cidade": "Las Vegas",
       "cep": "3790 Las Vegas Boulevard South, Las Vegas Stri",
-      "holteId": 1
+      "hotelId": 1
     },
     {
       "id": 2,
       "pais":"England",
       "cidade": "London",
       "cep": "372 Strand, London, WC2R 0JJ",
-      "holteId": 2
+      "hotelId": 2
     }
   ]
 }
